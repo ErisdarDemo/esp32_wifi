@@ -21,7 +21,7 @@
         }
     ],
     "settings": {
-        "window.title": "esp32_base",
+        "window.title": "esp32_wifi",
         "files.associations": {
             "task.h": "c",
             "freertos.h": "c",
